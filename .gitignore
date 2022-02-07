@@ -1,0 +1,6 @@
+# OSX Junk
+.DS_Store
+**/logs
+results/
+workflow/qsub
+workflow/.snakemake/

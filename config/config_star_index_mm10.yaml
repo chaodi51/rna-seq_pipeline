@@ -1,0 +1,5 @@
+tools: 
+    STAR: /home/dic/public/miniconda3/envs/snakemake/bin/STAR
+genome:
+    annotation: /home/dic/public/genomes/mm10/mm10.refGene.gtf
+    sequence: /home/dic/public/genomes/mm10/mm10.fa 
